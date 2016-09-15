@@ -1,1 +1,28 @@
-h4 {color: yellow;}
+body{
+  background-color:black;
+  background-image:url("http://www.wallpaperup.com/uploads/wallpapers/2015/05/14/686708/big_thumb_9e1f2d9ef8f620e014397b72d15c1b6d.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+}
+h4 {
+  color:orange;
+  font-style: oblique;
+  background-color:;
+}
+p {
+  color:orange;
+  font-style: oblique;
+  background-color:;
+}
+h3 {
+  color:blue;
+  font-style: italic;
+  background-color:;
+}
+li {
+  color:yellow;
+  font-family:serif;
+  font-size: 100%;
+  background-color:;
+}
